@@ -6,6 +6,6 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Bejon-Norman1/Azure-Honeynet-SOC-Project.git)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Jlope677/Azure-Honeynet-SOC-Project)
 
 
