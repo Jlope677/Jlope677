@@ -4,7 +4,7 @@
 
 
 <h2>👨‍💻 My Projects:</h2>
--<b>Azure basics</b>
+- <b>Azure basics</b>
  -
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
