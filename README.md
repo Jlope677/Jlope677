@@ -18,6 +18,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Jlope677/osTicket-Ticket-lifecycle-examples)
 
 <h2>👨‍💻 Competitions:</h2>
-- <b>DoD-Cyber-Sentinel-Challenge</b>
+- <b>DoD Cyber Sentinel Challenge</b>
   - [2025 writeup](https://github.com/Jlope677/DoD-Cyber-Sentinel-Challenge/blob/main/README.md)
   
