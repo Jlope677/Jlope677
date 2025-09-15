@@ -4,6 +4,8 @@
 
 
 <h2>👨‍💻 My Projects:</h2>
+-<b>Azure basics</b>
+ -
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Jlope677/Azure-Honeynet-SOC-Project)
