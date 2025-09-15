@@ -5,10 +5,9 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Azure basics</b>
+- <b>Microsoft Azure</b>
   - [Azure basics](https://github.com/Jlope677/azure-basics)
-
-- <b>Azure / Cloud Cybersecurity Projects</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Jlope677/azure-networking-lab)
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Jlope677/Azure-Honeynet-SOC-Project)
 
 
