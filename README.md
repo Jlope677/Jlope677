@@ -18,7 +18,10 @@ I am passionate about **Cybersecurity** and continue to build my skills through 
 ### osTicket (Help Desk Ticketing System)  
 - [Prerequisites & Installation](https://github.com/Jlope677/osTicket-Setup)  
 - [Post-Installation Configuration](https://github.com/Jlope677/osTicket-Post-Installation-Setup)  
-- [Ticket Lifecycle Examples](https://github.com/Jlope677/osTicket-Ticket-lifecycle-examples)  
+- [Ticket Lifecycle Examples](https://github.com/Jlope677/osTicket-Ticket-lifecycle-examples)
+
+### Active directory
+- [Configuring active directory](https://github.com/Jlope677/Active-Directory/blob/main/ActiveDirectory-Lab-Project-README.md)
 
 ---
 
