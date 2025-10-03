@@ -21,7 +21,7 @@ I am passionate about **Cybersecurity** and continue to build my skills through 
 - [Ticket Lifecycle Examples](https://github.com/Jlope677/osTicket-Ticket-lifecycle-examples)
 
 ### Active directory
-- [Configuring active directory](https://github.com/Jlope677/Active-Directory/blob/main/ActiveDirectory-Lab-Project-README.md)
+- [Configuring Active Directory](https://github.com/Jlope677/Active-Directory/blob/main/ActiveDirectory-Lab-Project-README.md)
 
 ---
 
