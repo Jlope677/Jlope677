@@ -23,7 +23,7 @@ I am passionate about **Cybersecurity** and continue to build my skills through 
 ### Active directory
 - [Configuring Active Directory](https://github.com/Jlope677/Active-Directory/blob/main/ActiveDirectory-Lab-Project-README.md)
 ### DNS
-- [DNS Records & Caching  ](DNS-Lab-README.md)
+- [DNS Records & Caching  ](https://github.com/Jlope677/DNS/blob/main/DNS-Lab-README.md)
 
 ---
 
