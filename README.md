@@ -25,6 +25,9 @@ I am passionate about **Cybersecurity** and continue to build my skills through 
 ### DNS
 - [DNS Records & Caching  ](https://github.com/Jlope677/DNS/blob/main/DNS-Lab-README.md)
 
+### Network File Shares
+- [Network File Shares and Permissions ](https://github.com/Jlope677/Network-File-Shares-and-Permissions-/blob/main/File_Share_Permissions_Lab_README.md)
+
 ---
 
 ## 🚩 Challenges  
