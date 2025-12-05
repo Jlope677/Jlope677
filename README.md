@@ -27,7 +27,8 @@ I am passionate about **Cybersecurity** and continue to build my skills through 
 
 ### Network File Shares
 - [Network File Shares and Permissions ](https://github.com/Jlope677/Network-File-Shares-and-Permissions-/blob/main/File_Share_Permissions_Lab_README.md)
-
+### Digacore
+- 
 ---
 
 ## 🚩 Challenges  
