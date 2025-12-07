@@ -31,6 +31,9 @@ I am passionate about **Cybersecurity** and continue to build my skills through 
 - [Adobe-License ](https://github.com/Jlope677/Adobe-License/blob/main/Adobe-License-Guide.md)
 - [adobe-License summary](https://github.com/Jlope677/Adobe-User-Licensing-Summary/blob/main/README.md)
 - [outlook-fix](https://github.com/Jlope677/Outlook-Fix/blob/main/outlook-reading-pane-fix.md)
+- [add a printer-private](https://github.com/Jlope677/adding-printers-and-checking-to-see-if-there-on-the-right-network)
+
+- 
 ---
 
 ## 🚩 Challenges  
