@@ -55,5 +55,5 @@ I am passionate about **Cybersecurity & IT Systems Administration** — continuo
 ## 🚩 Cybersecurity Challenges  
 ### DoD Cyber Sentinel Challenge  
 *(2025 Write-ups)*  
-- [Write-ups Repo]([https://github.com/Jlope677/osTicket-Ticket-lifecycle-examples](https://github.com/Jlope677/DoD-Cyber-Sentinel-Challenge)
+- [Write-ups Repo](https://github.com/Jlope677/DoD-Cyber-Sentinel-Challenge)
 
