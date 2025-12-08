@@ -34,6 +34,7 @@ I am passionate about **Cybersecurity** and continue to build my skills through 
 - [add a printer-private](https://github.com/Jlope677/adding-printers-and-checking-to-see-if-there-on-the-right-network/blob/main/printix_full_private.md)
 - [add a printer-public](https://github.com/Jlope677/adding-a-printer-Public/blob/main/Printix_Public_README.md)
 - [scan to email or fax-private](https://github.com/Jlope677/scan-to-email-or-fax-private-/blob/main/scan-email-fax-private%20(2).md)
+- [scan to email or fax-public](https://github.com/Jlope677/scan-to-email-or-fax-public)
 
   
 ---
