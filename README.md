@@ -50,6 +50,10 @@ I am passionate about **Cybersecurity & IT Systems Administration** — continuo
 - [Adobe Licensing Summary](https://github.com/Jlope677/Adobe-User-Licensing-Summary/blob/main/README.md)  
 - [Outlook Reading Pane Fix](https://github.com/Jlope677/Outlook-Fix/blob/main/outlook-reading-pane-fix.md)
 
+### 🔐 Identity & Access Management (IAM) 
+- [ Conditional Access Issue Resolution](https://github.com/Jlope677/conditional-access-issue-resolution/blob/main/MFA_Conditional_Access_Troubleshooting_README.md)
+
+
 ---
 
 ## 🚩 Cybersecurity Challenges  
