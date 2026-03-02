@@ -11,7 +11,7 @@ I am passionate about **Cybersecurity & IT Systems Administration** — continuo
 - [Azure Basics](https://github.com/Jlope677/azure-basics)  
 - [Network Security Groups & Wireshark Protocol Analysis](https://github.com/Jlope677/azure-networking-lab)
 - [VM Scale Sets](https://github.com/Jlope677/AzureVM-Scaleset/blob/main/Azure_vm_scaleset.md)
-- [Azure storage account](https://github.com/Jlope677/Configure-an-Azure-Storage-Account)
+- [Azure storage account](https://github.com/Jlope677/Configure-an-Azure-Storage-Account/blob/main/Azure_Storage_Account_Lab_Documentation.md)
 - [Live Azure Honeynet / SOC](https://github.com/Jlope677/Azure-Honeynet-SOC-Project)  
 
 ---
