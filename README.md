@@ -47,7 +47,7 @@ I continuously build **hands-on labs and documentation** to strengthen my skills
 - [Ticket Lifecycle Examples](https://github.com/Jlope677/osTicket-Ticket-lifecycle-examples)
 
 ## servicedesk-simulator
--[WiFi Disconnecting (Teams Application Issue)](https://github.com/Jlope677/Jlope677/edit/main/README.md)
+- [WiFi Disconnecting (Teams Application Issue)](https://github.com/Jlope677/Jlope677/edit/main/README.md)
 
 ---
 
