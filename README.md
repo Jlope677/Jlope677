@@ -16,6 +16,7 @@ I continuously build **hands-on labs and documentation** to strengthen my skills
 - [Azure VM Scale Sets](https://github.com/Jlope677/AzureVM-Scaleset/blob/main/Azure_vm_scaleset.md)
 - [Azure Storage Account Configuration](https://github.com/Jlope677/Configure-an-Azure-Storage-Account/blob/main/Azure_Storage_Account_Lab_Documentation.md)
 - [Azure Resource Locks Governance Lab](https://github.com/Jlope677/Resource-Locks/blob/main/azure_resource_locks_portfolio_lab.md)
+- [Privileged-Identity-Management](https://github.com/Jlope677/Privileged-Identity-Management/blob/main/README_PIM_User_Administrator_Lab.md)
 - [Live Azure Honeynet / SOC Project](https://github.com/Jlope677/Azure-Honeynet-SOC-Project)
 
 ---
