@@ -17,6 +17,7 @@ I continuously build **hands-on labs and documentation** to strengthen my skills
 - [Azure Storage Account Configuration](https://github.com/Jlope677/Configure-an-Azure-Storage-Account/blob/main/Azure_Storage_Account_Lab_Documentation.md)
 - [Azure Resource Locks Governance Lab](https://github.com/Jlope677/Resource-Locks/blob/main/azure_resource_locks_portfolio_lab.md)
 - [Privileged-Identity-Management](https://github.com/Jlope677/Privileged-Identity-Management/blob/main/README_PIM_User_Administrator_Lab.md)
+- [azure-entra-id-risk-based-conditional-access](https://github.com/Jlope677/azure-entra-id-risk-based-conditional-access/blob/main/README.md)
 - [Live Azure Honeynet / SOC Project](https://github.com/Jlope677/Azure-Honeynet-SOC-Project)
 
 ---
