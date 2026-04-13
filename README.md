@@ -78,22 +78,22 @@ These guides document troubleshooting steps and real-world support scenarios.
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-- Microsoft **AZ-900 Azure Fundamentals**
-- Cloud Infrastructure & Governance
-- Python for IT Automation
-- Azure Administration
+- Microsoft SC-900 Security, Compliance, and Identity Fundamentals (In Progress)  
+- Azure Administration (Core Services, Resource Management, Identity)  
+- Python for IT Automation (Basic Scripting & Task Automation)  
+- Cloud Security & Governance (Policies, RBAC, Resource Locks, PIM)  
 
 ---
 
-# ⭐ Skills Demonstrated
+## ⭐ Skills Demonstrated
 
-- Azure Cloud Infrastructure
-- Virtual Networking
-- Identity & Access Management
-- Active Directory Administration
-- DNS & Network Services
-- Cloud Governance & Security
-- IT Support & Troubleshooting
+- ☁️ Azure Cloud Infrastructure (VMs, Storage Accounts, Resource Groups)  
+- 🌐 Virtual Networking (VNets, Subnets, NSGs, Traffic Analysis)  
+- 🔐 Identity & Access Management (Microsoft Entra ID, PIM, RBAC, MFA)  
+- 🧑‍💻 Active Directory & User Administration (On-Prem & Cloud Concepts)  
+- 🌍 DNS & Network Services (Name Resolution, Connectivity Troubleshooting)  
+- 🛡️ Cloud Governance & Security (Resource Locks, Access Control, Conditional Access)  
+- 🛠️ IT Support & Troubleshooting (End-User Support, Ticketing, Issue Resolution)  
 
