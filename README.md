@@ -46,6 +46,9 @@ I continuously build **hands-on labs and documentation** to strengthen my skills
 - [Post-Installation Configuration](https://github.com/Jlope677/osTicket-Post-Installation-Setup)
 - [Ticket Lifecycle Examples](https://github.com/Jlope677/osTicket-Ticket-lifecycle-examples)
 
+## servicedesk-simulator
+
+
 ---
 
 # 🏢 IT Support Documentation (Digacore Experience)
