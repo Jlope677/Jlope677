@@ -51,6 +51,7 @@ I continuously build **hands-on labs and documentation** to strengthen my skills
 - [User-Access-Management-Department-Transfer](https://github.com/Jlope677/User-Access-Management-Department-Transfer-/blob/main/IAM_GitHub_README.md)
 - [Password-Reset-Identity-Verification](https://github.com/Jlope677/-Password-Reset-Identity-Verification/edit/main/Password_Reset_IAM_Project.md)
 - [Second-Monitor-Not-Detected-After-Display-Issue](https://github.com/Jlope677/Second-Monitor-Not-Detected-After-Display-Issue/blob/main/Second_Monitor_Project.md)
+- [Floor-Wide Internet Outage (Switch Failure)](https://github.com/Jlope677/Floor-Wide-Internet-Outage-Switch-Failure-/blob/main/network_outage_switch_project.md)
   
 
 ---
