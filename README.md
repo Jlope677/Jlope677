@@ -50,6 +50,8 @@ I continuously build **hands-on labs and documentation** to strengthen my skills
 - [WiFi Disconnecting (Teams Application Issue)](https://github.com/Jlope677/WiFi-Disconnecting-Teams-Application-Issue-/blob/main/helpdesk_wifi_teams_issue.md)
 - [User-Access-Management-Department-Transfer](https://github.com/Jlope677/User-Access-Management-Department-Transfer-/blob/main/IAM_GitHub_README.md)
 - [Password-Reset-Identity-Verification](https://github.com/Jlope677/-Password-Reset-Identity-Verification/edit/main/Password_Reset_IAM_Project.md)
+- [Second-Monitor-Not-Detected-After-Display-Issue](https://github.com/Jlope677/Second-Monitor-Not-Detected-After-Display-Issue/blob/main/Second_Monitor_Project.md)
+  
 
 ---
 
