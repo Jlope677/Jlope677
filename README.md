@@ -52,6 +52,7 @@ I continuously build **hands-on labs and documentation** to strengthen my skills
 - [Password-Reset-Identity-Verification](https://github.com/Jlope677/-Password-Reset-Identity-Verification/edit/main/Password_Reset_IAM_Project.md)
 - [Second-Monitor-Not-Detected-After-Display-Issue](https://github.com/Jlope677/Second-Monitor-Not-Detected-After-Display-Issue/blob/main/Second_Monitor_Project.md)
 - [Floor-Wide Internet Outage (Switch Failure)](https://github.com/Jlope677/Floor-Wide-Internet-Outage-Switch-Failure-/blob/main/network_outage_switch_project.md)
+- [VPN Connectivity Issue Resolved (DNS Flush & Restart)](https://github.com/Jlope677/-VPN-Connectivity-Issue-Resolved-DNS-Flush-Restart-/blob/main/VPN_Troubleshooting_Project.md)
   
 
 ---
